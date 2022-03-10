@@ -11,7 +11,7 @@ url= "https://www.fast2sms.com/dev/bulkV2"
 message="Hello, How are you?"
 payload=f'sender_id=Cghpet&message={message}&route=v3&language=english&numbers={num}'
 headers={
-  'authorization':"xXOqoyearA7mESlHnjsz4LK15tBG0vF9pcQNWUifPwVhg2J6dCAMFWouO8ZKE9pc1tmBiqr7VNykQXTh",
+  'authorization':"ENTER YOUR AUTHORIZATION KEY HERE",
 'Content-Type':'application/x-www-form-urlencoded'
   
 }
